@@ -1,3 +1,3 @@
 import Application from './Application';
 
-let app = new Application(document.getElementById('canvas'));
+let app = new Application();
